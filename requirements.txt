@@ -2,3 +2,4 @@ django~=4.0.0
 black
 djangorestframework~=3.13.0
 django-cors-headers~=3.10.0
+dj-rest-auth~=2.1.0
