@@ -146,4 +146,5 @@ CORS_ORIGIN_WHITELIST = (
 )
 
 ## CSRF trusted origins
-CSRF_TRUSTED_ORIGINS = ["http://localhost:3000"]
+CSRF_TRUSTED_ORIGINS = ["http://localhost:300"
+                        "0"]
