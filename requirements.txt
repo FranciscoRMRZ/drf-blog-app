@@ -4,3 +4,4 @@ djangorestframework~=3.13.0
 django-cors-headers~=3.10.0
 dj-rest-auth~=2.1.0
 django-allauth~=0.48.0
+drf-spectacular~=0.21.0
