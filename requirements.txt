@@ -5,3 +5,4 @@ django-cors-headers~=3.10.0
 dj-rest-auth~=2.1.0
 django-allauth~=0.48.0
 drf-spectacular~=0.21.0
+environs[django]==9.3.5
